@@ -1,10 +1,10 @@
-package com.scaleupindia.service.impl;
+package com.ExcepHandl7.service.impl;
 
 import java.io.IOException;
 
-import com.scaleupindia.service.CalculatorService;
-import com.scaleupindia.utility.CustomResource;
-import com.scaleupindia.utility.CustomResource2;
+import com.ExcepHandl7.service.CalculatorService;
+import com.ExcepHandl7.utility.CustomResource;
+import com.ExcepHandl7.utility.CustomResource2;
 
 /**
  * @author abhishekvermaa10

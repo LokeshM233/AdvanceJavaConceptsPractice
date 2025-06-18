@@ -1,6 +1,6 @@
-package com.scaleupindia.service.impl;
+package com.ExcepHandl.service.impl;
 
-import com.scaleupindia.service.CalculatorService;
+import com.ExcepHandl.service.CalculatorService;
 
 /**
  * @author abhishekvermaa10

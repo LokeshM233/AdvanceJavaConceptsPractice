@@ -1,6 +1,6 @@
-package com.scaleupindia.service;
+package com.ExcepHandl8.service;
 
-import com.scaleupindia.exception.ScaleUpIndiaException;
+import com.ExcepHandl8.exception.ScaleUpIndiaException;
 
 /**
  * @author abhishekvermaa10

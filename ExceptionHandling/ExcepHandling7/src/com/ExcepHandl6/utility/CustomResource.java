@@ -1,4 +1,4 @@
-package com.scaleupindia.utility;
+package com.ExcepHandl6.utility;
 
 /**
  * @author abhishekvermaa10

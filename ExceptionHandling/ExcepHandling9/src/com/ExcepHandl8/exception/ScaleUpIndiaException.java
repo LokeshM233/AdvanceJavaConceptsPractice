@@ -1,4 +1,4 @@
-package com.scaleupindia.exception;
+package com.ExcepHandl8.exception;
 
 /**
  * @author abhishekvermaa10

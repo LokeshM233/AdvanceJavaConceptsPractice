@@ -1,8 +1,8 @@
-package com.scaleupindia.service.impl;
+package com.ExcepHandl6.service.impl;
 
 import java.io.IOException;
 
-import com.scaleupindia.service.CalculatorService;
+import com.ExcepHandl6.service.CalculatorService;
 
 /**
  * @author abhishekvermaa10
